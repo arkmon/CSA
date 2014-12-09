@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E6827051-10F8-465B-B8FD-C21E2D8102DE</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Countist</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>91EE4DD2C03B834FF825C913DD6C96A60B39100F</key>
+		<string>https://github.com/arkmon/CSA.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Countist.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>91EE4DD2C03B834FF825C913DD6C96A60B39100F</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/arkmon/CSA.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>91EE4DD2C03B834FF825C913DD6C96A60B39100F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>91EE4DD2C03B834FF825C913DD6C96A60B39100F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>CSA</string>
+		</dict>
+	</array>
+</dict>
+</plist>
