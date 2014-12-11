@@ -19,6 +19,7 @@
 		23E7DAFB1A36EA7C00D8E0BD /* ENSideMenuNavigationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23E7DAF91A36EA7C00D8E0BD /* ENSideMenuNavigationController.swift */; };
 		23E7DAFE1A36F0CE00D8E0BD /* MyNavigationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23E7DAFD1A36F0CE00D8E0BD /* MyNavigationViewController.swift */; };
 		23E7DB001A36F16200D8E0BD /* MyMenuTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23E7DAFF1A36F16200D8E0BD /* MyMenuTableViewController.swift */; };
+		23E7DB021A38425500D8E0BD /* CreateObjectViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23E7DB011A38425500D8E0BD /* CreateObjectViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,6 +49,7 @@
 		23E7DAF91A36EA7C00D8E0BD /* ENSideMenuNavigationController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ENSideMenuNavigationController.swift; sourceTree = "<group>"; };
 		23E7DAFD1A36F0CE00D8E0BD /* MyNavigationViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MyNavigationViewController.swift; sourceTree = "<group>"; };
 		23E7DAFF1A36F16200D8E0BD /* MyMenuTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MyMenuTableViewController.swift; sourceTree = "<group>"; };
+		23E7DB011A38425500D8E0BD /* CreateObjectViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CreateObjectViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				23E7DADF1A36E3D600D8E0BD /* LaunchScreen.xib */,
 				23E7DAD51A36E3D600D8E0BD /* Countist.xcdatamodeld */,
 				23E7DAD11A36E3D600D8E0BD /* Supporting Files */,
+				23E7DB011A38425500D8E0BD /* CreateObjectViewController.swift */,
 			);
 			path = Countist;
 			sourceTree = "<group>";
@@ -241,6 +244,7 @@
 			files = (
 				23E7DAFA1A36EA7C00D8E0BD /* ENSideMenu.swift in Sources */,
 				23E7DAD91A36E3D600D8E0BD /* ViewController.swift in Sources */,
+				23E7DB021A38425500D8E0BD /* CreateObjectViewController.swift in Sources */,
 				23E7DAD71A36E3D600D8E0BD /* Countist.xcdatamodeld in Sources */,
 				23E7DAFB1A36EA7C00D8E0BD /* ENSideMenuNavigationController.swift in Sources */,
 				23E7DB001A36F16200D8E0BD /* MyMenuTableViewController.swift in Sources */,
